@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Multiplication
 function mul(){
     let a = 5;
@@ -6,3 +7,13 @@ function mul(){
     return result
 }
 console.log(mul())
+=======
+//Division
+function div(){
+    let a = 5;
+    let b = 7;
+    let result = a/b
+    return result
+}
+console.log(div())
+>>>>>>> div
